@@ -36,9 +36,9 @@ const config: Config = {
         '5xl': '50px',
       },
       backgroundImage: {
-        'hero-pattern': "url('/images/background/hero.png')",
-        'linear' : "url('/images/background/background.png')",
-        'about-hero' : "url('/images/background/about-hero.png')"
+        'hero-pattern': "url('./images/background/hero.png')",
+        'linear' : "url('./images/background/background.png')",
+        'about-hero' : "url('./images/background/about-hero.png')"
       },
       fontSize: {
         '3.5xl': '32px' },
